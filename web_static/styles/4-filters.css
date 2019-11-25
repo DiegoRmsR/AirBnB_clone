@@ -20,6 +20,7 @@ section.filters {
     display: flex;
     justify-content: center;
     position: absolute;
+    margin-top: 11px;
 }
 
 .filters button:hover {
